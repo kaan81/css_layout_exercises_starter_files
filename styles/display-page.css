@@ -1,0 +1,57 @@
+main {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  
+}
+
+.container {
+
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+
+  font-size: 0;
+}
+
+.box {
+  display: inline-block;
+   border: 1px solid black;
+}
+
+.blue {
+background-color: blue;
+}
+
+.green {
+background-color: green;
+}
+
+
+.grey {
+background-color: grey;
+}
+
+.black {
+background-color: black;
+}
+
+.orange {
+background-color: orange;
+}
+.cols3 {
+
+ height: 300px;
+width: 33.33%;
+ 
+ font-size: 0;
+}
+
+.cols2{
+	 
+	height: 200px;
+	width: 50%;
+	font-size: 0;
+}
